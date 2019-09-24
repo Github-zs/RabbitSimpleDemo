@@ -20,6 +20,9 @@ public class RabbitUtils {
     public static Connection getRabbitConnection() throws IOException {
         ConnectionFactory factory = new ConnectionFactory();
 
+        factory.setUsername("admin");
+        factory.setPassword("admin");
+        
         Connection connection = factory.newConnection();
 
         return connection;
