@@ -1,7 +1,4 @@
-package rabbit.t1SimpleMode;/**
- * Talcloud.com Inc.
- * Copyright (c) 2018-2020 All Rights Reserved.
- */
+package rabbit.t1SimpleMode;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
