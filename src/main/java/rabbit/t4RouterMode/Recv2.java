@@ -1,7 +1,4 @@
-package rabbit.t4RouterMode;/**
- * Talcloud.com Inc.
- * Copyright (c) 2018-2020 All Rights Reserved.
- */
+package rabbit.t4RouterMode;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
