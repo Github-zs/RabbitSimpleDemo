@@ -1,7 +1,4 @@
-package rabbit;/**
- * Talcloud.com Inc.
- * Copyright (c) 2018-2020 All Rights Reserved.
- */
+package rabbit;
 
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
